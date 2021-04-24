@@ -8,15 +8,15 @@
 
 ### user-interface
 
-![Snipaste_2021-04-24_12-30-24](.\img\Snipaste_2021-04-24_12-30-24.jpg)
+![Snipaste_2021-04-24_12-30-24](img/Snipaste_2021-04-24_12-30-24.jpg)
 
 ### Camera test
 
-![Snipaste_2021-04-24_12-31-22](.\img\Snipaste_2021-04-24_12-31-22.jpg)
+![Snipaste_2021-04-24_12-31-22](img/Snipaste_2021-04-24_12-31-22.jpg)
 
 ### Image test
 
-![Snipaste_2021-04-24_12-32-00](.\img\Snipaste_2021-04-24_12-32-00.jpg)
+![Snipaste_2021-04-24_12-32-00](img/Snipaste_2021-04-24_12-32-00.jpg)
 
 ### About me
 
